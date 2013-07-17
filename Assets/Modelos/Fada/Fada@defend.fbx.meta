@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: ea5a539d73ad3974394c2f793414d17a
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Armature_002
+    100002: pe_R
+    100004: canela_R
+    100006: perna_R
+    100008: antibraco_L
+    100010: braco_L
+    100012: ombro_L
+    100014: chifre_R
+    100016: chifre2_R
+    100018: chifre_L
+    100020: chifre2_L
+    100022: cabeca
+    100024: pescoso
+    100026: //RootNode
+    100028: perna_L
+    100030: bacia_L
+    100032: barriga
+    100034: mao_R
+    100036: antibraco_R
+    100038: braco_R_001
+    100040: ombro_R
+    100042: mao_L
+    100044: peito
+    100046: Bone
+    100048: ossos
+    100050: Camera
+    100052: Lamp
+    100054: Cube_MeshPart1
+    100056: Cube_MeshPart0
+    100058: Cube
+    100060: ossos_001
+    100062: Armature_001
+    100064: bacia_R
+    100066: pe_L
+    100068: canela_L
+    100070: Armature
+    400000: Armature_002
+    400002: pe_R
+    400004: canela_R
+    400006: perna_R
+    400008: antibraco_L
+    400010: braco_L
+    400012: ombro_L
+    400014: chifre_R
+    400016: chifre2_R
+    400018: chifre_L
+    400020: chifre2_L
+    400022: cabeca
+    400024: pescoso
+    400026: //RootNode
+    400028: perna_L
+    400030: bacia_L
+    400032: barriga
+    400034: mao_R
+    400036: antibraco_R
+    400038: braco_R_001
+    400040: ombro_R
+    400042: mao_L
+    400044: peito
+    400046: Bone
+    400048: ossos
+    400050: Camera
+    400052: Lamp
+    400054: Cube_MeshPart1
+    400056: Cube_MeshPart0
+    400058: Cube
+    400060: ossos_001
+    400062: Armature_001
+    400064: bacia_R
+    400066: pe_L
+    400068: canela_L
+    400070: Armature
+    4300000: Cube_MeshPart0
+    4300002: Cube_MeshPart1
+    7400000: ossosAction
+    11100000: //RootNode
+    13700000: Cube_MeshPart1
+    13700002: Cube_MeshPart0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .159999996
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

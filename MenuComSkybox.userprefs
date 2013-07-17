@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controller\PlayerPunch.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Interface\FimDemoTrigger.cs" Line="8" Column="34" />
+      <File FileName="Assets\Scripts\Others\DeathZone.cs" Line="10" Column="3" />
+      <File FileName="Assets\Scripts\Interface\Sound.cs" Line="8" Column="45" />
+      <File FileName="Assets\Scripts\Controller\PlayerPunch.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
